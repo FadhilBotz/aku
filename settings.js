@@ -1,6 +1,6 @@
 //════════════════════════════//
-//Recode By ArullOfc 
-//© 2022 Xeon Bot Inc. Cheems Bot MD
+//Recode By Dill X Brilliant 
+//© 2022 Xeon Bot Inc. Dill Bot MD
 //Thank you to Lord Buddha, Family and Myself
 //════════════════════════════//
 
